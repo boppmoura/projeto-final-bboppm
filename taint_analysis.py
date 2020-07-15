@@ -27,8 +27,8 @@ for log in log_things:
 file_name = None
 limited_processes = []
 
-full_output_path = '/home/bboppm/ghidra/ghidra_9.1_PUBLIC/support/saida-TC'
-regras_ting = '/home/bboppm/ghidra/ghidra_9.1_PUBLIC/support/fileTing'
+full_output_path = '~/ghidra/ghidra_9.1_PUBLIC/support/saida-TC'
+regras_ting = '~/ghidra/ghidra_9.1_PUBLIC/support/fileTing'
 
 
 
